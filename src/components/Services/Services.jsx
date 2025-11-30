@@ -64,7 +64,7 @@ const Services = () => {
             delay: 0.2,
           }}
         >
-           Frisch und <span className="text-primary">l</span>
+           Frisch und <span className="text-primary">lecker</span>
         </motion.h1>
         <motion.p
           className="text-sm opacity-50 font-bold"

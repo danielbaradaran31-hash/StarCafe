@@ -17,7 +17,7 @@ const Navbar = () => {
             className="text-2xl font-semibold "
           >
             Star
-            <span className="text-primary">Cafe</span>
+            <span className="text-primary"> Cafe</span>
           </motion.h1>
         </div>
       </div>
