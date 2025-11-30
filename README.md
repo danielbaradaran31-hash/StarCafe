@@ -55,14 +55,23 @@ Leichte, elegante Icons
 📂 Projektstruktur
 
 src/
+
  ├── components/
+ 
  │   ├── Hero/
+ 
  │   ├── Navbar/
+ 
  │   ├── Services/
+ 
  │   ├── WhereToBuy/
+ 
  │   └── Footer/
+ 
  ├── assets/
+ 
  ├── App.jsx
+ 
  ├── main.jsx
  └── index.css
 
