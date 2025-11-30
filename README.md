@@ -1,3 +1,10 @@
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6d9a19f3-f41a-4165-9c8c-9b0235cb6216" />
+
+
+
+
+
 🖤 Star Café– Moderne Coffee-Landingpage
 
 Eine moderne, elegante und minimalistische Landingpage zur Präsentation des „Black Lifestyle“ und hochwertiger Kaffeeprodukte.
