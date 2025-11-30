@@ -137,7 +137,7 @@ Forke das Repository und trage zu diesem Projekt bei!
 
 ⸻
 
-❤️ Entwickler
+❤️ Ich habe mit Herzt gemacht
 
 Entwickelt von Your Name
 Mit Kreativität, Leidenschaft – und einer Tasse Kaffee ☕✨
