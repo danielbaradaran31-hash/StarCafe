@@ -115,11 +115,11 @@ git clone https://github.com/danielbaradaran31-hash/StarCafe.git
 
 2. Abhängigkeiten installieren
 
-npm install
+- npm install
 
 3. Projekt starten
 
-npm run dev
+- npm run dev
 
 📌 Roadmap (Zukünftige Erweiterungen)
  • Produktshop integrieren
