@@ -52,7 +52,7 @@ React Icons
 Leichte, elegante Icons
 
 
-📂 Projektstruktur
+## 📂 Projektstruktur
 
 src/
 
@@ -76,7 +76,7 @@ src/
  └── index.css
 
 
-🖥️ Seitenbereiche
+## 🖥️ Seitenbereiche
 
 ⭐ Hero-Bereich
  • Hintergrundbild
@@ -107,7 +107,7 @@ src/
 
 ⸻
 
-▶️ Installation & Nutzung
+## ▶️ Installation & Nutzung
 
 1. Repository klonen
 
@@ -121,7 +121,7 @@ git clone https://github.com/danielbaradaran31-hash/StarCafe.git
 
 - npm run dev
 
-📌 Roadmap (Zukünftige Erweiterungen)
+## 📌 Roadmap (Zukünftige Erweiterungen)
  • Produktshop integrieren
  • Verbindung zu einer echten API
  • Vollständige Mehrsprachigkeit (DE + EN)
@@ -130,14 +130,14 @@ git clone https://github.com/danielbaradaran31-hash/StarCafe.git
 
 ⸻
 
-🤝 Mitwirken
+## 🤝 Mitwirken
 
 Pull Requests und Vorschläge sind jederzeit willkommen.
 Forke das Repository und trage zu diesem Projekt bei!
 
 ⸻
 
-❤️ Ich habe mit Herzt gemacht
+## ❤️ Ich habe mit Herzt gemacht
 
 Entwickelt von Your Name
 Mit Kreativität, Leidenschaft – und einer Tasse Kaffee ☕✨
