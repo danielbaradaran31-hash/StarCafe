@@ -12,7 +12,7 @@ Das Projekt wurde mit React, Vite, TailwindCSS und Framer Motion entwickelt und 
 
 ⸻
 
-🚀 Über das Projekt
+##🚀 Über das Projekt
 
 Star Kaffee ist eine stilvolle Landingpage, ideal für Cafés, Coffee-Brands, Lifestyle-Marken und moderne Webprojekte.
 Das Design orientiert sich an dunklen Farbtönen, warmen Kaffee-Nuancen und weichen Animationen, um ein besonderes und angenehmes Nutzungserlebnis zu schaffen.
@@ -36,7 +36,7 @@ Hauptmerkmale des Projekts:
 
 ⸻
 
-🛠️ Verwendete Technologien
+##🛠️ Verwendete Technologien
 
 Technologie
 Beschreibung
